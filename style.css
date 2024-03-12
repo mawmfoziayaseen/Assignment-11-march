@@ -1,0 +1,45 @@
+header{
+    margin: 10px;
+    padding: 25px;
+    /* color: blue; */
+    display: inline;
+    /* text-align: right; */
+}
+.container {
+    width: 80%;
+    height: auto;
+    float: left;
+}
+.navbar{
+    margin: 70px;
+    padding: 20px;
+    background-color: rgb(38, 5, 99);
+}
+a{
+    color: white;
+    word-spacing: 47px;
+    text-decoration: none;
+}
+button{
+    float: right;
+}
+.main{
+    height:  60vh;
+    display: inline;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.img{
+    height: 40px;
+    width:  40px;
+    float: left;
+display: inline;    
+}
+.content{
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 10px;
+    display: inline;
+    flex-direction: row;
+    
+}
