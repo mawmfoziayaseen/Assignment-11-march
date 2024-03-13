@@ -1,23 +1,29 @@
-g header{
-    margin: 10px;
-    padding: 25px;
+/* header{ */
+    /* margin: 1px;
+    padding: 2px; */
     /* color: blue; */
-    display: inline;
+    /* display: inline;
      text-align: justify;
      margin-bottom: 5px;
-     background-color: aqua; 
+     background-color: aqua;  */
 }
-.container {
+/* .container {
     width: 50%;
-    height: auto;
+    height: 70px;
     float: left;
-    display: inline;
-    /* background-color: blueviolet; */
+    display: flex;
+    background-color: blueviolet; */
+}
+.head{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 50px;
 }
 .phone{
-    /* float: right; */
+     float: right;
     width: 50%;
-    height: 50px;
+    height: 200px;
     word-spacing: 20px;
     /* color: red; */
     display: flex;
@@ -69,4 +75,19 @@ h2{
 }
 p{
     display: flex;
+}
+.about{
+    height: 300px;
+    float: left;
+    width: 50%;
+    display: flex;
+}
+img{
+    height: 300px;
+    width: 45%;
+}
+.para{
+    display: inline;
+    text-align: justify;
+    float: right;
 }
