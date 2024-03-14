@@ -1,22 +1,8 @@
-/* header{ */
-    /* margin: 1px;
-    padding: 2px; */
-    /* color: blue; */
-    /* display: inline;
-     text-align: justify;
-     margin-bottom: 5px;
-     background-color: aqua;  */
 
-/* .container {
-    width: 50%;
-    height: 70px;
-    float: left;
-    display: flex;
-    background-color: blueviolet; */
 *{
-    margin: 80px;
+    margin: 0px;
     padding: 0px;
-    font-size: xx-large;
+    /* font-size: xx-large; */
 }
 .head{
   
