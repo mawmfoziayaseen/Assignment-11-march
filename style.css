@@ -59,7 +59,7 @@ button{
     font-size: 35px;
     line-height: 96px
 }
-div.img{
+.img{
 width: 50%;
 background-size: cover;
 display: inline-block;
